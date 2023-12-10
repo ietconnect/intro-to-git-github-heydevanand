@@ -5,7 +5,7 @@
       "setup": "",
       "run": "./hello.py",
       "input": "",
-      "output": "Hello, Dev",
+      "output": "hello world",
       "comparison": "exact",
       "timeout": 10,
       "points": 10
